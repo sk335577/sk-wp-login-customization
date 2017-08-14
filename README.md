@@ -15,7 +15,7 @@ This plugin is used to customize login screen for wordpress admin.
 
 You can change wordpress logo on wordpress admin login page or you can also add a background image on the wordpress admin login page.
 
-# Features: 
+# == Features == 
 * Custom login logo image
 * Custom login page background image
 * Set width and height of the logo
